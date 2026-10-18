@@ -1,0 +1,6 @@
+media/
+__pycache__/
+venv/
+.venv/
+*.mp4
+*.png
